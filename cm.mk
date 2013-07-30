@@ -14,5 +14,5 @@ $(call inherit-product, device/htc/m4/m4.mk)
 PRODUCT_DEVICE := m4
 PRODUCT_NAME := cm_m4
 PRODUCT_BRAND := htc
-PRODUCT_MODEL := m4
+PRODUCT_MODEL := HTC One mini
 PRODUCT_MANUFACTURER := HTC
